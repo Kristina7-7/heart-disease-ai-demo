@@ -12,4 +12,17 @@ Examples:
 - Heart disease distribution
   <img width="1715" height="1392" alt="target_distribution" src="https://github.com/user-attachments/assets/ed7091ce-e1c4-4b35-b781-3f0aa0117c49" />
 
-- Confusion matrix
+- Logistic regression confusion matrix
+  <img width="1495" height="1361" alt="logistic_regression_confusion_matrix" src="https://github.com/user-attachments/assets/3653a514-709d-4543-af09-6539c15ea6f2" />
+
+- Logistic regression coefficient
+  <img width="2369" height="1466" alt="logistic_regression_coefficients" src="https://github.com/user-attachments/assets/a7d1e1e6-1b3b-4b6b-b0dc-9f6abf9d45d1" />
+
+- Random forest confusion matrix
+  <img width="1495" height="1361" alt="random_forest_confusion_matrix" src="https://github.com/user-attachments/assets/aa5a3a57-f0f2-42e8-a236-2fe98e4acb09" />
+
+- Random forest feature important
+  <img width="2370" height="1465" alt="feature_importance" src="https://github.com/user-attachments/assets/deb9f7a6-03f3-4e30-b0e8-7bb424e1b1e1" />
+
+- Model comparison
+  <img width="2670" height="1466" alt="model_performance_comparison" src="https://github.com/user-attachments/assets/9d992b55-7d2a-44b6-8645-cf1a20fa46ce" />
