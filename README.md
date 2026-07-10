@@ -1,78 +1,101 @@
-# Heart Disease AI Prediction
+# Heart Disease Prediction using Machine Learning
 
 ## Project Overview
 
-This is my first biomedical AI project. The goal of this project is to learn the basic workflow of machine learning using the UCI Heart Disease dataset. I will explore the dataset, build machine learning models, evaluate their performance, and organize the project on GitHub.
+This project explores how machine learning can be used to predict heart disease using the UCI Heart Disease dataset.
+
+The project is organized as a step-by-step learning portfolio, starting from data exploration and progressing to model interpretation.
 
 ---
 
 ## Dataset
 
-**Dataset:** UCI Heart Disease Dataset
-
-- 303 patients
-- 13 clinical features
-- Prediction target: Heart disease diagnosis
+- Dataset: UCI Heart Disease Dataset
+- Number of patients: 303
+- Features: 13 clinical variables
+- Target: Heart disease severity (0–4)
 
 ---
 
 ## Project Structure
 
-heart-disease-ai-demo/
+### Week 1 — Data Exploration
 
-├── notebooks/      # Google Colab notebooks
+Completed:
 
-├── figures/        # Figures and visualizations
-
-├── docs/           # Weekly summaries and project notes
-
-└── README.md
-
----
-
-## Week 1 Progress
-
-- ✅ Created a GitHub repository
-- ✅ Set up Google Colab
-- ✅ Loaded the UCI Heart Disease dataset
-- ✅ Explored the dataset using Pandas
-- ✅ Learned the meaning of all clinical features
-- ✅ Checked missing values
-- ✅ Visualized the dataset
+- Load the dataset
+- Understand clinical features
+- Explore missing values
+- Visualize feature distributions
+- Correlation analysis
 
 ---
 
-## Tools
+### Week 2 — Machine Learning Models
 
-- Python
-- Google Colab
-- Pandas
-- Matplotlib
-- GitHub
+Completed:
+
+- Train Logistic Regression
+- Train Random Forest
+- Evaluate both models
+- Calculate Accuracy
+- Generate Classification Reports
+- Create Confusion Matrices
 
 ---
-## Week 2 - Machine Learning Models
 
-In Week 2, I trained two machine learning models using the UCI Heart Disease dataset.
+### Week 3 — Model Interpretation
 
-Models:
-- Logistic Regression
-- Random Forest
+Completed:
 
-Workflow:
-- Handle missing values
-- Split training and testing data
-- Scale features for Logistic Regression
-- Train the models
-- Evaluate using Accuracy, Classification Report, and Confusion Matrix
+- Logistic Regression coefficient visualization
+- Random Forest feature importance
+- Confusion matrix visualization
+- Model comparison
+- Limitations
+- Future work
 
-Results:
+---
+
+## Results
 
 | Model | Accuracy |
 |--------|----------|
 | Logistic Regression | 54.1% |
 | Random Forest | 50.8% |
 
-Conclusion:
+Logistic Regression achieved slightly higher accuracy than Random Forest on this dataset.
 
-Logistic Regression achieved slightly higher accuracy than Random Forest on this dataset. This may be because the dataset is small and contains imbalanced classes.
+---
+
+## Skills Demonstrated
+
+- Data preprocessing
+- Missing value handling
+- Feature scaling
+- Logistic Regression
+- Random Forest
+- Model evaluation
+- Feature importance
+- Model interpretation
+- Data visualization
+
+---
+
+## Future Work
+
+Future improvements include:
+
+- Binary heart disease classification
+- Hyperparameter tuning
+- Larger cardiovascular datasets
+- Deep learning models
+- ECG analysis
+- CT angiography image analysis
+- Blood clot detection using medical imaging
+
+---
+
+## Author
+
+University student learning biomedical AI and medical image analysis through hands-on machine learning projects.
