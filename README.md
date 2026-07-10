@@ -51,7 +51,28 @@ heart-disease-ai-demo/
 - GitHub
 
 ---
+## Week 2 - Machine Learning Models
 
-## Next Step
+In Week 2, I trained two machine learning models using the UCI Heart Disease dataset.
 
-Build the first machine learning model using Logistic Regression and evaluate its performance.
+Models:
+- Logistic Regression
+- Random Forest
+
+Workflow:
+- Handle missing values
+- Split training and testing data
+- Scale features for Logistic Regression
+- Train the models
+- Evaluate using Accuracy, Classification Report, and Confusion Matrix
+
+Results:
+
+| Model | Accuracy |
+|--------|----------|
+| Logistic Regression | 54.1% |
+| Random Forest | 50.8% |
+
+Conclusion:
+
+Logistic Regression achieved slightly higher accuracy than Random Forest on this dataset. This may be because the dataset is small and contains imbalanced classes.
