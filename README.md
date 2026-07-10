@@ -96,6 +96,3 @@ Future improvements include:
 
 ---
 
-## Author
-
-University student learning biomedical AI and medical image analysis through hands-on machine learning projects.
