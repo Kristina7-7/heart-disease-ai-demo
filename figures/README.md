@@ -26,3 +26,8 @@ Examples:
 
 - Model comparison
   <img width="2670" height="1466" alt="model_performance_comparison" src="https://github.com/user-attachments/assets/9d992b55-7d2a-44b6-8645-cf1a20fa46ce" />
+
+- Demo
+  <img width="725" height="132" alt="Screenshot 2026-07-13 at 10 20 57 AM" src="https://github.com/user-attachments/assets/177a54f5-b2ba-4205-b4e7-56b87ba8ee7f" />
+
+
