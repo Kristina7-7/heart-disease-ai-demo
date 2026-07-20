@@ -32,6 +32,15 @@ Examples:
 
 - Demo
   <img width="741" height="133" alt="Screenshot 2026-07-20 at 4 05 46 PM" src="https://github.com/user-attachments/assets/3cfdabbe-9215-4b79-aaaf-8ba0473fb08c" />
+  
+- Binary class distribution
+  <img width="1470" height="1166" alt="binary_class_distribution" src="https://github.com/user-attachments/assets/62263571-b6b9-476a-962f-450b05fe697e" />
+
+- Binary model comparison
+  <img width="3270" height="1765" alt="binary_model_comparison" src="https://github.com/user-attachments/assets/1b54312d-33c0-4aea-8662-d6ca63769337" />
+
+- ROC curve comparison 
+  <img width="2070" height="1765" alt="ROC Curve Comparison" src="https://github.com/user-attachments/assets/dd864d8a-b040-4684-8ca0-a399f2c72d11" />
 
 
 
