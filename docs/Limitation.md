@@ -1,8 +1,10 @@
+# Limitations
 
-- The dataset contains only 303 patients, which is a relatively small sample size.
-- The dataset is imbalanced, with many more patients in class 0 than in class 4.
-- Both models had difficulty predicting the minority classes.
-- Missing values in `ca` and `thal` were replaced with median values.
-- Only Logistic Regression and Random Forest were evaluated.
-- The project uses tabular clinical data rather than CT images or ECG signals.
-- The models have not been clinically validated and should not be used for medical diagnosis.
+Although the project was improved, several limitations remain:
+
+- **Small dataset:** The UCI Heart Disease dataset contains a limited number of patients, which may affect model reliability.
+- **Class imbalance:** Some classes contain fewer patients than others, especially in the multiclass task.
+- **Limited generalizability:** The dataset may not represent different hospitals and patient populations.
+- **Binary simplification:** Combining classes 1–4 into one heart disease class removes information about disease severity.
+- **No external validation:** The models were not tested on an independent clinical dataset.
+- **Not for clinical diagnosis:** This project is an educational machine learning demonstration and should not be used for real medical diagnosis.
